@@ -52,7 +52,7 @@
 		</c:choose>	
 
 		<li><a href="../menu/menu.jsp">메뉴</a></li>
-		<li><a href="">고객센터</a></li></ul>
+		<li><a href="../news/news.jsp">공지사항</a></li></ul>
 		</nav>
 	</header>
 	<hr class="header_hr">	

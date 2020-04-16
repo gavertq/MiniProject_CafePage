@@ -8,12 +8,12 @@
 
 <style type="text/css">
 	/*기본 CSS 및 모바일*/
-	#wrap_footer{display: flex; flex-flow: column; margin: 0 auto;	width: 80%; max-width: 1200px; background-color: #252515;}
+	#wrap_footer{display: flex; flex-flow: column; margin: 0 auto;	width: 80%; margin-top: 3%; background-color: #252515;}
 		.footer{color: white; margin: 0 auto;}
 		
 	/*PC용 CSS*/
 	@media all and (min-width:960px){		
-	#wrap_footer{position:relative; width:80%;}/*위에서 설정하고 아래서 따로 설정안하면 그 설정 유지. 새로 설정하면 새로 설정한값 적용*/
+	#wrap_footer{position:relative; width:100%; margin-top: 10%;}/*위에서 설정하고 아래서 따로 설정안하면 그 설정 유지. 새로 설정하면 새로 설정한값 적용*/
 </style>
 
 </head>
