@@ -13,7 +13,7 @@
 		
 	/*PC용 CSS*/
 	@media all and (min-width:960px){		
-	#wrap_footer{position:relative; width:80%;}/*위에서 설정하고 아래서 따로 설정안하면 그 설정 유지. 새로 설정하면 새로 설정한값 적용*/
+	#wrap_footer{position:relative; width:100%; height: 10%}/*위에서 설정하고 아래서 따로 설정안하면 그 설정 유지. 새로 설정하면 새로 설정한값 적용*/
 </style>
 
 </head>
