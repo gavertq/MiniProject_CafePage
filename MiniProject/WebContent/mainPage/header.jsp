@@ -13,7 +13,7 @@
 <style type="text/css">
 	/*기본 CSS 및 모바일*/
 	#wrap_header{position:fixed; left:10%; top:0; display: flex; flex-flow: column;
-					margin: 0 auto;	width: 80%; background-color: #F6F5EF;}
+					margin: 0 auto;	width: 80%; background-color: #F6F5EF; z-index: 3;}
 		.logo{float: left; width: 50px; height: 50px; margin-top: 5px; margin-left: 5px;}
 		.header_hr{width: 100%; max-width: 1200px;}
 		.heaer_nav {float: right;}
