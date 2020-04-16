@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class MenuDAO {
-	private String url = "jdbc:oracle:thin:@localhost:1521:xe";
+	private String url = "jdbc:oracle:thin:@192.168.0.15:1521:xe";
 	private String id = "java";
 	private String pwd="1234";
 	

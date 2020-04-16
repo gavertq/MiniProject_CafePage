@@ -108,7 +108,6 @@
 </script>
 </head>
 <body>
-
 <a id="first"></a>
 <jsp:include page="header.jsp"/>
 <div id="wrap_main">
